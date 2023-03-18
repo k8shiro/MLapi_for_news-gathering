@@ -1,0 +1,2 @@
+# MLapi_for_news-gathering
+ニュース収集処理用の分析モデル実行用APIサーバー
